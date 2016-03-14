@@ -1,0 +1,43 @@
+{
+  "name": "genesis",
+  "description": "Development files for the Genesis Framework.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/copyblogger/genesis"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-bower-task": "^0.4.0",
+    "grunt-checktextdomain": "^0.1.1",
+    "grunt-contrib-compress": "^0.12.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-uglify": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-csscomb": "^3.1.0",
+    "grunt-jsbeautifier": "^0.2.10",
+    "grunt-jsvalidate": "^0.2.2",
+    "grunt-phpcs": "^0.4.0",
+    "grunt-phplint": "0.0.5",
+    "grunt-phpunit": "^0.3.6",
+    "grunt-styledocco": "^0.2.1",
+    "grunt-wp-i18n": "^0.5.3",
+    "load-grunt-tasks": "^3.3.0"
+  },
+  "theme": {
+    "name": "Genesis",
+    "uri": "http://www.genesisframework.com/",
+    "description": "The industry standard for Premium WordPress Themes.",
+    "author": "StudioPress",
+    "authoruri": "http://www.studiopress.com/",
+    "version": "2.2.5",
+    "tags": "black, orange, white, one-column, two-columns, three-columns, left-sidebar, right-sidebar, responsive-layout, custom-menu, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready",
+    "license": "GPL-2.0+",
+    "licenseuri": "http://www.gnu.org/licenses/gpl-2.0.html",
+    "textdomain": "genesis"
+  }
+}

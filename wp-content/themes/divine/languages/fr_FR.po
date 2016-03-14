@@ -1,0 +1,554 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divine\n"
+"POT-Creation-Date: 2016-01-27 11:06-0500\n"
+"PO-Revision-Date: 2016-01-27 11:12-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: front-page.php:113
+msgid "Our cheeses honored"
+msgstr "Nos fromages à l'honneur"
+
+#: front-page.php:122 functions.php:753
+msgid "Awards"
+msgstr "Prix et disctinctions"
+
+#: front-page.php:169
+msgid "Our events"
+msgstr "Nos évènements"
+
+#: front-page.php:202
+msgid "Distinct artisan cheeses"
+msgstr "Des fromages artisanaux distincts"
+
+#: front-page.php:221
+msgid "100&#37; ownership by producers"
+msgstr "100&#37; propriété des producteurs d'ici"
+
+#: functions.php:168
+msgid "continue reading..."
+msgstr "continuer à lire..."
+
+#: functions.php:226
+msgid "Fromagerie Îles-aux-Grues | All rights reserved"
+msgstr "Fromagerie Îles-aux-Grues | Tous droits réservés"
+
+#: functions.php:260
+msgid "Sidebar Split Left"
+msgstr ""
+
+#: functions.php:261
+msgid "This is the left side of the split sidebar"
+msgstr ""
+
+#: functions.php:265
+msgid "Sidebar Split Right"
+msgstr ""
+
+#: functions.php:266
+msgid "This is the right side of the split sidebar"
+msgstr ""
+
+#: functions.php:270
+msgid "Sidebar Split Bottom"
+msgstr ""
+
+#: functions.php:271
+msgid "This is the bottom of the split sidebar"
+msgstr ""
+
+#: functions.php:275
+msgid "Home - Before Content"
+msgstr ""
+
+#: functions.php:276 functions.php:281
+msgid "This is the slider section on the home page."
+msgstr ""
+
+#: functions.php:280
+msgid "Home - Slider"
+msgstr ""
+
+#: functions.php:285
+msgid "Home - Top"
+msgstr ""
+
+#: functions.php:286
+msgid "This is the top section of the home page."
+msgstr ""
+
+#: functions.php:290
+msgid "Home - Triple Bottom"
+msgstr ""
+
+#: functions.php:291 functions.php:296
+msgid "This is the bottom section of the home page."
+msgstr ""
+
+#: functions.php:295
+msgid "Home - Double Bottom"
+msgstr ""
+
+#: functions.php:300
+msgid "Category Index"
+msgstr ""
+
+#: functions.php:301
+msgid "This is the category index for the category index page template."
+msgstr ""
+
+#: functions.php:305
+msgid "Widget Above Header"
+msgstr ""
+
+#: functions.php:306 functions.php:311
+msgid "This is the widget area above the header"
+msgstr ""
+
+#: functions.php:310
+msgid "Widget Before Footer"
+msgstr ""
+
+#: functions.php:315
+msgid "Nav Social Menu"
+msgstr ""
+
+#: functions.php:316
+msgid "This is the nav social menu section."
+msgstr ""
+
+#: functions.php:334 functions.php:336 functions.php:337
+msgid "Cheeses"
+msgstr "Fromages"
+
+#: functions.php:335
+msgid "Cheese"
+msgstr "Fromage"
+
+#: functions.php:338
+msgid "Add new"
+msgstr ""
+
+#: functions.php:339
+msgid "Add new cheese"
+msgstr ""
+
+#: functions.php:340
+msgid "New cheese"
+msgstr ""
+
+#: functions.php:341
+msgid "Edit cheese"
+msgstr ""
+
+#: functions.php:342
+msgid "View cheese"
+msgstr ""
+
+#: functions.php:343
+msgid "All cheeses"
+msgstr ""
+
+#: functions.php:344
+msgid "Find a cheese"
+msgstr ""
+
+#: functions.php:345
+msgid "Parent cheeses"
+msgstr ""
+
+#: functions.php:346
+msgid "No cheese find"
+msgstr ""
+
+#: functions.php:347
+msgid "No cheese in trash"
+msgstr ""
+
+#: functions.php:352 functions.php:534
+msgid "Description"
+msgstr ""
+
+#: functions.php:381 functions.php:389
+msgid "Kinds of cheese"
+msgstr ""
+
+#: functions.php:382
+msgid "Kind of cheese"
+msgstr ""
+
+#: functions.php:383
+msgid "Find all kinds of cheese"
+msgstr ""
+
+#: functions.php:384
+msgid "All kinds of cheese"
+msgstr ""
+
+#: functions.php:385
+msgid "Edit kind of cheese"
+msgstr ""
+
+#: functions.php:386
+msgid "Modify kind of cheese"
+msgstr ""
+
+#: functions.php:387
+msgid "Add a new kind of cheese"
+msgstr ""
+
+#: functions.php:388
+msgid "New kind of cheese name"
+msgstr ""
+
+#: functions.php:408 functions.php:409
+msgid "Size of cheese"
+msgstr ""
+
+#: functions.php:410
+msgid "Find a size of cheese"
+msgstr ""
+
+#: functions.php:411
+msgid "All sizes of cheese"
+msgstr ""
+
+#: functions.php:412
+msgid "Edit a size of cheese"
+msgstr ""
+
+#: functions.php:413
+msgid "Modify a size of cheese"
+msgstr ""
+
+#: functions.php:414
+msgid "Add a new size of cheese"
+msgstr ""
+
+#: functions.php:415
+msgid "Name of the new size of cheese"
+msgstr ""
+
+#: functions.php:416
+msgid "Sizes of cheese"
+msgstr ""
+
+#: functions.php:435 functions.php:443
+msgid "Kinds of milk"
+msgstr ""
+
+#: functions.php:436
+msgid "Kind of milk"
+msgstr ""
+
+#: functions.php:437
+msgid "Find a kind of milk"
+msgstr ""
+
+#: functions.php:438
+msgid "All kinds of milk"
+msgstr ""
+
+#: functions.php:439
+msgid "Edit a kind of milk"
+msgstr ""
+
+#: functions.php:440
+msgid "Modify a kind of milk"
+msgstr ""
+
+#: functions.php:441
+msgid "Add a new kind of milk"
+msgstr ""
+
+#: functions.php:442
+msgid "Name of the new kind of milk"
+msgstr ""
+
+#: functions.php:462 functions.php:470
+msgid "Intensities"
+msgstr ""
+
+#: functions.php:463
+msgid "Intensity"
+msgstr ""
+
+#: functions.php:464
+msgid "Find a intensity"
+msgstr ""
+
+#: functions.php:465
+msgid "All intensities"
+msgstr ""
+
+#: functions.php:466
+msgid "Edit a intensity"
+msgstr ""
+
+#: functions.php:467
+msgid "Modify a intensity"
+msgstr ""
+
+#: functions.php:468
+msgid "Add a new intensity"
+msgstr ""
+
+#: functions.php:469
+msgid "Name of the new intensity"
+msgstr ""
+
+#: functions.php:489 functions.php:497
+msgid "Tastes"
+msgstr ""
+
+#: functions.php:490
+msgid "Taste"
+msgstr "Goût"
+
+#: functions.php:491
+msgid "Find a taste"
+msgstr ""
+
+#: functions.php:492
+msgid "All tastes"
+msgstr ""
+
+#: functions.php:493
+msgid "Edit a taste"
+msgstr ""
+
+#: functions.php:494
+msgid "Modify a taste"
+msgstr ""
+
+#: functions.php:495
+msgid "Add a new taste"
+msgstr ""
+
+#: functions.php:496
+msgid "Name of the new taste"
+msgstr ""
+
+#: functions.php:516
+msgctxt "divine"
+msgid "Recipes"
+msgstr ""
+
+#: functions.php:517
+msgctxt "divine"
+msgid "Recipe"
+msgstr ""
+
+#: functions.php:518 functions.php:519
+msgid "Recipes"
+msgstr ""
+
+#: functions.php:520
+msgid "Add New"
+msgstr ""
+
+#: functions.php:521
+msgid "Add New Recipe"
+msgstr ""
+
+#: functions.php:522
+msgid "New Recipe"
+msgstr ""
+
+#: functions.php:523
+msgid "Edit Recipe"
+msgstr ""
+
+#: functions.php:524
+msgid "View Recipe"
+msgstr ""
+
+#: functions.php:525
+msgid "All Recipes"
+msgstr ""
+
+#: functions.php:526
+msgid "Search Recipes"
+msgstr ""
+
+#: functions.php:527
+msgid "Parent Recipes"
+msgstr ""
+
+#: functions.php:528
+msgid "No recipes found"
+msgstr ""
+
+#: functions.php:529
+msgid "No recipes found in Trash"
+msgstr ""
+
+#: functions.php:564 functions.php:572
+msgid "Recipes categories"
+msgstr ""
+
+#: functions.php:565
+msgid "Recipe category"
+msgstr ""
+
+#: functions.php:566
+msgid "Find a recipe category"
+msgstr ""
+
+#: functions.php:567
+msgid "All recipes categories"
+msgstr ""
+
+#: functions.php:568
+msgid "Edit recipe category"
+msgstr ""
+
+#: functions.php:569
+msgid "Modify recipe category"
+msgstr ""
+
+#: functions.php:570
+msgid "Add a recipe category"
+msgstr ""
+
+#: functions.php:571
+msgid "Name of the new recipe category"
+msgstr ""
+
+#: functions.php:648
+msgid "Our Cheeses"
+msgstr "Nos Fromages"
+
+#: functions.php:701
+msgid "Kind of milk : "
+msgstr "Type de lait : "
+
+#: functions.php:712
+msgid "Intensity : "
+msgstr "Intensité : "
+
+#: functions.php:724
+msgid "Taste : "
+msgstr "Goût : "
+
+#: functions.php:733
+msgid "After single description widget"
+msgstr ""
+
+#: functions.php:734
+msgid "Custom widget after single description area"
+msgstr ""
+
+#: functions.php:781
+msgid "Caracteristics"
+msgstr "Caractéristiques"
+
+#: functions.php:785
+msgid "Aging period :"
+msgstr "Affinage :"
+
+#: functions.php:786
+msgid "Size(s) : "
+msgstr "Format(s) :"
+
+#: functions.php:787
+msgid "Fat :"
+msgstr "M.G. :"
+
+#: functions.php:788
+msgid "Moisturing :"
+msgstr "Humidité :"
+
+#: functions.php:794
+msgid "Origin"
+msgstr "Origine"
+
+#: functions.php:805
+msgid "Pairings"
+msgstr ""
+
+#: functions.php:817
+msgid ""
+"* Le choix des pastilles de goût s’harmonisant avec les fromages a été "
+"déterminé par les experts de la SAQ. © Société des alcools du Québec, 2007\n"
+"Les vins que nous suggérons sont disponibles à la SAQ."
+msgstr ""
+
+#: functions.php:827
+msgid "You should like to discover"
+msgstr "Vous pourriez aimer découvrir"
+
+#: functions.php:843
+msgid "News"
+msgstr "Nouvelles"
+
+#: lib/customize.php:64
+msgid ""
+"Change the default primary color for your post title, buttons, and links."
+msgstr ""
+
+#: lib/customize.php:65
+msgid "Primary Color"
+msgstr ""
+
+#: lib/customize.php:84
+msgid "Change the default accent color for your links."
+msgstr ""
+
+#: lib/customize.php:85
+msgid "Accent Color"
+msgstr ""
+
+#: lib/theme-defaults.php:91
+msgid "Read More"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Divine"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://restored316designs.com/themes"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A mobile responsive and HTML5 feminine WordPress theme built for the Genesis "
+"Framework by Lauren Gaige of Restored 316."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Restored 316 Designs // Lauren Gaige"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.restored316designs.com/"
+msgstr ""
+
+#~ msgid "100% ownership by producers"
+#~ msgstr "100% propriété des producteurs d'ici"
+
+#~ msgid "Our Cheeses honored"
+#~ msgstr "Nos fromages à l'honneur"
+
+#, fuzzy
+#~ msgid "Fromagerie Îles-aux-Grues | Tous droits réservés"
+#~ msgstr "Fromagerie Îles-aux-Grues | Tous droits réservés"
+
+#~ msgid "cheeses"
+#~ msgstr "fromages"
